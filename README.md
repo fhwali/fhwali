@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 -  *Skills :* JavaScript, React, HTML, CSS/SCSS
 -  *Hobbies :* Movies & Music :headphones:
 -  *Fact :* First solve the problem, then write the code :heart: 
--  
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
