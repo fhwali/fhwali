@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Fakhar Hanif
-[![Linkedin Badge](https://img.shields.io/badge/-Fakhar_Hanif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/fakhar-hanif-366bb51b4//)](https://www.linkedin.com/in/fakhar-hanif-366bb51b4//) [![Gmail Badge](https://img.shields.io/badge/-fhwali@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fhwali@gmail.com)](mailto:fhwali@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Fakhar_Hanif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/fakhar-hanif-366bb51b4/)](https://www.linkedin.com/in/fakhar-hanif-366bb51b4/) [![Gmail Badge](https://img.shields.io/badge/-fhwali@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fhwali@gmail.com)](mailto:fhwali@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
