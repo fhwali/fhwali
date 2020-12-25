@@ -1,4 +1,4 @@
-🌱 I’m currently learning Hooks
+🌱 I’m currently learning Node.js
 
 <!--
 **fhwali/fhwali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
