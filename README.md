@@ -1,4 +1,4 @@
-🌱 I’m currently learning Node.js
+🌱 I’m currently learning Vue.js
 
 <!--
 **fhwali/fhwali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 ### About
 
--  *Working:* Looking for opportunies as a Junior Frontend Developer :zap: :fire:	
--  *Skills :* JavaScript, React, HTML, CSS/SCSS
+-  *Working:* Working Student Frond-end Development at Medwing :zap: :fire:	
+-  *Skills :* Vue.js, Node.js, React, JavaScript, HTML, CSS/SCSS
 -  *Hobbies :* Movies & Music :headphones:
--  *Fact :* First solve the problem, then write the code :heart: 
+-  *Fact :* First, solve the problem, then write the code :heart: 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
